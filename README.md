@@ -1,2 +1,2 @@
-# Cpp-Projects
-Here are the C++ projects I did as I was learning the language.
+# Hello World
+A simple program that prints "Hello World" to the console.
