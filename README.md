@@ -1,2 +1,6 @@
-# Cpp-Projects
-Here are the C++ projects I did as I was learning the language.
+# Quadratic-Formula
+## Main Idea
+In the program, you will enter the 3 variables in a quadratic equation and the program will calculate its solutions.
+
+## What I Learned
+The use of variables and different data types
