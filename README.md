@@ -1,2 +1,6 @@
 # Cpp-Projects
-Here are the C++ projects I did as I was learning the language.
+## Main Idea
+It is the same as hangman, by instead, a person is being abducted by an UFO
+
+## What I Learned
+Writing functions in a modular way (use of .hpp files) 
